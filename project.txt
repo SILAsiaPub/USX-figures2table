@@ -1,0 +1,5 @@
+[extract USX figures as table]
+usxpath=D:\usx
+divider=	
+outfile=fig-table.txt
+xslt=USX-fig-table.xslt
