@@ -1,0 +1,38 @@
+MAT	5	1		CN01700C.TIF		Cook	En sermon ten marenggád a bukid
+MAT	14	31		cn01722C.tif		Cook	Ginewat ni Jesus ti Pedro
+MAT	17	3		CN01728C.TIF		Cook	Pummeta de Moises ay ti Elias kánni Jesus
+MAT	21	9		CN01784C.TIF		Cook	En matagumpay a kássáddáp ni Jesus ti Jerusalem
+MAT	21	12		CN01787C.TIF		Cook	Lininis ni Jesus en Templo
+MAT	26	39		cn01810C.tif		Cook	Nagdasal ti Jesus ten parang
+MRK	1	16		CN01681C.TIF		Cook	En págdulaw ni Jesus kánde Simon ay ti Andres
+MRK	2	4		CN01686C.TIF		Cook	Niláttab di en atáp
+MRK	4	3		UBSN130.tif		USBN	Págsabug
+MRK	4	39		UBSN029.tif		UBSN	Pinaimang ni Jesus en parás
+MRK	12	1		lb00103c.tif		Bass	En págpáspássan ti ubas
+MRK	15	24		CN01841C.TIF		Cook	Impaku di ti Jesus ten kudus
+LUK	2	13		CN01621C.TIF		Cook	En makpal a anghel sakay en pastol hidi
+LUK	3	22		Cn01656c.tif		Cook	Bininyagan ni Juan ti Jesus
+LUK	7	38		UBSN127.tif		UBSN	Binulakan nen bábbi ti págpasárrub en basset ni Jesus
+LUK	10	33		CN01749C.TIF		Cook	En Makákkagbiyán a Samaritano
+LUK	19	5		CN01776C.TIF		Cook	Mákpágguron ti Jesus kánni Zaqueo ten sarok nen kayu
+LUK	22	14		CN01803C.TIF		Cook	En katapusan a pángngapon
+LUK	22	47		UBSN079.tif		UBSN	En pángdikáp kánni Jesus
+JHN	2	7		CN01667C.TIF		Cook	Pinaputat ni Jesus en tapayan hidi
+JHN	4	7		CN01674C.TIF		Cook	Ti Jesus sakay ten taga-Samaritano a bábbi
+JHN	11	44		CN01768C.TIF		Cook	Inggulung di en batu ten lábbáng ni Lazaro
+JHN	13	5		cn01799C.tif		Cook	Inugasan ni Jesus en babásset nen disepulus na hidi 
+JHN	15	1		hk00112c.tif		Knowles	Ubas
+JHN	18	19		cn01815C.tif		Cook	Ti Jesus ten atubengán nen padi hidi
+JHN	19	17		cn01833C.tif		Cook	Bináklay ni Jesus en kudus na
+JHN	20	12		cn01853c.tif		Cook	En duwwa a anghel ten pintuwan nen lábbáng
+JHN	21	8		CN01877C.TIF		Cook	Ginuyud nen disepulus hidi en panti dinapan
+ACT	1	9		CN01883C.TIF		Cook	En káddisunu ni Jesus dilanget
+ACT	2	14		cn01891C.tif		Cook	En sermon ni Pedro ten tolay hidi
+ACT	7	44		cn01921c.tif		Cook	En Tolda nen Kasunduwan ten parang
+ACT	7	59		cn02154c.tif		Gook	En pángbunu kánni Esteban
+ACT	9	25		CN02112c.TIF		Cook	Inyasák di ti Pablo ten balulang sakay intonton di
+ACT	16	24		cn02132c.tif		Cook	De Pablo ay ti Silas ten kadisaladan nen págpiresuwan
+ACT	20	13		cn01939C.tif		Cook	En barku a putat ti karga
+ACT	27	41		cn02045C.tif		Cook	Narukat-rukat en barku
+ROM	1	1		CN02068C.TIF		Cook	Nagsulat ti Pablo
+EPH	6	14		lb00196c.tif		Bass	En sundalu a kompletu ti armas
