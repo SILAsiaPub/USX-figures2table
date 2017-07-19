@@ -1,5 +1,5 @@
 [extract USX figures as table]
-usxpath=D:\usx
+usxpath=D:\usx-collection\agp
 divider=	
 outfile=fig-table.txt
-xslt=USX-fig-table.xslt
+script=USX-fig-table.xslt

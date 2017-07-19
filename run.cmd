@@ -4,7 +4,6 @@ set projxslt=project.xslt
 set var2x=variable2xslt.xslt
 call :variableslist project.txt
 call :testjava
-if not exist "%ProgramFiles%\java" echo is java installed? & pause & exit
 if exist "%projxslt%" del "%projxslt%"
 @echo on
 java -jar "%saxon9%" -o:"%projxslt%" "%var2x%" "%var2x%"
@@ -30,8 +29,7 @@ FOR /F "tokens=* USEBACKQ" %%F IN (`where java`) DO (
   SET var!count!=%%F
   SET /a count=!count!+1
 )
-ENDLOCAL
 ECHO %var1%
-ECHO %var2%
-ECHO %var3%
+if '%var1%' neq '%var1:INFO=%' echo Is java installed? It was not found in the path!& pause & exit
+ENDLOCAL
 goto :eof
