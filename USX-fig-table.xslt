@@ -13,13 +13,13 @@
       <xsl:output method="text" encoding="utf-8"/>
       <xsl:include href="inc-file2uri.xslt"/>
       <xsl:include href="inc-lookup.xslt"/>
-<xsl:include href="project.xslt"/>
+      <xsl:include href="project.xslt"/>
       <xsl:variable name="usxpathuri" select="f:file2uri($usxpath)"/>
       <xsl:variable name="collection" select="collection(concat($usxpathuri,'?select=','*.usx'))"/>
       <xsl:template match="/">
             <xsl:for-each select="$collection/usx">
                   <xsl:sort select="number(f:keyvalue($bookorder,book/@code))"/>
-                  <xsl:apply-templates select="descendant::figure" >
+                  <xsl:apply-templates select="descendant::figure">
                         <xsl:with-param name="bk" select="book/@code"/>
                   </xsl:apply-templates>
             </xsl:for-each>

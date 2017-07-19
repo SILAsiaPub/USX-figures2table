@@ -1,5 +1,5 @@
 @echo off
-set saxon9=saxon9he.jar
+set saxon9=saxon\saxon9he.jar
 set projxslt=project.xslt
 set var2x=variable2xslt.xslt
 call :variableslist project.txt
