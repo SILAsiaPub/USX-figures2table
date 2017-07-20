@@ -1,6 +1,7 @@
 # USX to figure information table
 
 Combine USX files and create tabular data for inclusion in a spreadsheet
+Windows installer released https://github.com/SILAsiaPub/USX-figures2table/releases/tag/1
 
 
 ## Installation
